@@ -1,5 +1,5 @@
 # fakebox
-- this program is a simple dropbox prototype written in python 3.6.2
+- this program is a simple dropbox prototype written in Python 3.6.2
 - client.py and server.py can be run on the same machine or different ones
 - if ran on the same machine, client.py and server.py should be executed from separate directories
 - multiple instances of client.py can connect to one instance of server.py simultaneously
